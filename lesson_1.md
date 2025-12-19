@@ -173,4 +173,3 @@ browser.find_element(By.XPATH, '//input[@class="btn btn-primary"]')
 1. Բացում է https://www.qa-practice.com
 2. Գտնում է որևէ կոճակ
 3. Սեղմում է այն
-
