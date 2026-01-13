@@ -3,7 +3,7 @@
 
 ---
 
-## 📘 Lesson 7 - Scroll Wheel Actions Selenium-ում (v4.2)
+## 📘 Lesson 8 - Scroll Wheel Actions Selenium-ում (v4.2)
 
 ### 🌐 Պրակտիկ կայք․ https://www.qa-practice.com/
 
